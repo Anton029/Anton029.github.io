@@ -1,3 +1,3 @@
-#src - for developers
-dist - for clients
-project builder - Gulp
+#src - for developers;
+dist - for clients;
+project builder - Gulp;
